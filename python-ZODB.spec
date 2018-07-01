@@ -18,7 +18,7 @@ Summary:	Python object-oriented database
 Summary(pl.UTF-8):	Pythonowa zorientowana obietowo baza danych
 Name:		python-%{pypi_name}
 Version:	5.3.0
-Release:	1
+Release:	2
 License:	ZPL 2.1
 Group:		Libraries/Python
 Source0:	https://files.pythonhosted.org/packages/source/Z/%{pypi_name}/%{pypi_name}-%{version}.tar.gz
